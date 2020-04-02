@@ -1,0 +1,18 @@
+----------------------------------
+INSTALLATIONS
+-------------
+sudo apt-get install python3-tk
+pip3 install pynput
+-------------------
+INSTRUCTIONS
+-------------------
+run: python3 gui.py
+give: input width height
+hover: over the box
+*********************
+Other Way
+*********
+right click on gui.py
+goto properties > permissions
+allow execute file as program
+>>> run: ./gui.py

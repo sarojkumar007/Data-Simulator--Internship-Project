@@ -1,6 +1,0 @@
-This is a 1 line
-This is a 2 line
-This is a 3 line
-This is a 4 line
-This is a 5 line
-This is a 6 line
